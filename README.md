@@ -38,7 +38,7 @@ This system replaces traditional manual notice boards and enables quick, wireles
 
 ---
 
-## 🔗 System Block Diagram (Explanation)
+## 🔗 System Block Diagram 
 1. Mobile phone sends message via Bluetooth  
 2. HC-05 Bluetooth module receives data  
 3. Arduino Uno processes the incoming data  
@@ -66,8 +66,5 @@ This system replaces traditional manual notice boards and enables quick, wireles
 | LCD VCC | 5V |
 | LCD GND | GND |
 
-*(Pin numbers may vary depending on code configuration)*
-
 ---
 
-## 📂 Project Structure
