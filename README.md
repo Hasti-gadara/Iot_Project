@@ -7,6 +7,8 @@ The **Wireless Notice Board Using Bluetooth** is an IoT-based embedded system th
 This system replaces traditional manual notice boards and enables quick, wireless message updates.
 
 ---
+## APP LINK - https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree
+
 
 ## 🎯 Project Objectives
 - To design a Bluetooth-based wireless notice board
