@@ -55,7 +55,7 @@ This system replaces traditional manual notice boards and enables quick, wireles
 
 ---
 
-## 🔌 Circuit Connections (Overview)
+## 🔌 Circuit Connections 
 | Component | Arduino Pin |
 |---------|-------------|
 | HC-05 TX | RX (Pin 0) |
